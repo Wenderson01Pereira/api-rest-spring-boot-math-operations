@@ -1,4 +1,4 @@
-package br.com.erudio.Domain.Model;
+package br.com.erudio.Domain.Model.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
